@@ -1,0 +1,6 @@
+# Executar o comando pip install -r requiments.txt para instalar os pacotes abaixo
+azure.core
+azure-ai-documentintelligence
+streamlit
+azure-storage-blob
+python-dotenv
